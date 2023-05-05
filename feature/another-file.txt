@@ -1,1 +1,3 @@
 just another file is created in feature-1 branch
+
+this file was modified locally
